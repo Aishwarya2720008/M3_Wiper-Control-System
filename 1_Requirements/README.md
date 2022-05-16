@@ -17,15 +17,15 @@ A driver may be subjected to many distractions with bad weather, dangerous road 
 To switch off & on and change the speed of wiper(represented through LEDs - blue red , orange) using stm32 by using a single switch button in the arm emulator.
 
 <h2>Components:</h2>
-.STM Cube IDE
-.Qemu
-.Arm controller
-.Push Button
-.LED +3
-.5V Power Supply
-.Switch
-
-HIGH LEVEL REQUIREMENTS:
+.STM Cube IDE<br>
+.Qemu<br>
+.Arm controller<br>
+.Push Button<br>
+.LED +3<br>
+.5V Power Supply<br>
+.Switch<br>
+<p>
+HIGH LEVEL REQUIREMENTS:<br>
 SNO	DESCRIPTION	STATUS
 HLR1	Qemu Programmming for Arm controller
 HLR2	PUSH BUTTON INTERFACING WITH STM32S407Vg	IMPLEMENTED
