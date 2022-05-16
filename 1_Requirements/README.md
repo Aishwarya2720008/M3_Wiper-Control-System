@@ -26,12 +26,12 @@ To switch off & on and change the speed of wiper(represented through LEDs - blue
 .Switch<br>
 <p>
 HIGH LEVEL REQUIREMENTS:<br>
-SNO	DESCRIPTION	STATUS
-HLR1	Qemu Programmming for Arm controller
-HLR2	PUSH BUTTON INTERFACING WITH STM32S407Vg	IMPLEMENTED
+SNO	DESCRIPTION	STATUS<br>
+HLR1	Qemu Programmming for Arm controller<br>
+HLR2	PUSH BUTTON INTERFACING WITH STM32S407Vg	IMPLEMENTED<br>
 LOW LEVEL REQUIREMENTS:
-SNO	DESCRIPTION	STATUS
-HLR1-LLR1	To control switch off & on using single button long press
-HLR1-LLR2	To change the speed by a click
-HLR2-LLR1	To blink the LEDs used as wipers
+SNO	DESCRIPTION	STATUS<br>
+HLR1-LLR1	To control switch off & on using single button long press<br>
+HLR1-LLR2	To change the speed by a click<br>
+HLR2-LLR1	To blink the LEDs used as wipers<br>
 HLR2-LLR2 To properly control & manage the system
