@@ -25,7 +25,7 @@ To switch off & on and change the speed of wiper(represented through LEDs - blue
 .5V Power Supply<br>
 .Switch<br>
 
-<h2>HIGH LEVEL REQUIREMENTS:</h2>>
+<h2>HIGH LEVEL REQUIREMENTS:</h2>
 SNO	DESCRIPTION	STATUS<br>
 HLR1	Qemu Programmming for Arm controller<br>
 HLR2	PUSH BUTTON INTERFACING WITH STM32S407Vg	IMPLEMENTED<br>
